@@ -1,0 +1,61 @@
+/* Tag name
+body {
+    background-color: black;
+}
+
+Class
+.header {
+    color: white;
+}
+.card {
+    color: white;
+}
+
+ID
+#footer {
+    color: white;
+} */
+
+.body {
+    background-color: black;
+}
+
+.header {
+    text-align: center;
+    color: white;
+    font-family: gilroy;
+    font-weight: 900;
+    font-size: 150%;
+}
+
+.hr {
+    width: 80%;
+    border: none;
+    color: white;
+    background-color: white;
+    height: 2px;
+}
+
+.title {
+    margin-left: 7%;
+    color: white;
+    font-family: gilroy;
+    font-weight: 700;
+    font-size: 230%;
+}
+
+.paragraph {
+    margin-left: 7%;
+    color: white;
+    font-family: gilroy;
+    font-weight: 500;
+    font-size: 150%;
+}
+
+.footer {
+    text-align: center;
+    color: white;
+    font-family: gilroy;
+    font-weight: 900;
+    font-size: 150%;
+}
